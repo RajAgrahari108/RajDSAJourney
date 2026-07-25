@@ -22,9 +22,9 @@ public class MaxSubArray {
                 if(maxSum < currSum){
                     maxSum = currSum; 
                 }
-                // System.out.println();  
+                System.out.println();  
             }
-            // System.out.println();
+            System.out.println();
         }
         System.out.println("max sum = " + maxSum);
     }
