@@ -1,6 +1,6 @@
 public class TrappedRainWater {
     public static void main(String[] args) {
-        int arr[]={}
+        int arr[]={};
 
     }
     public static void trappedRainWater(int arr[]){
