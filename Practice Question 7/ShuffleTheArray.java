@@ -1,6 +1,6 @@
 public class ShuffleTheArray {
     public static void ShuffleAnArra(int nums[], int n){
-        int ans[]=new int[nums.length]
+        int ans[]=new int[nums.length];
        
 
 
