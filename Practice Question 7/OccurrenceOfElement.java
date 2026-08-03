@@ -15,6 +15,6 @@ public class OccurrenceOfElement {
             }
         }
 
-        System.out.println("Number of occurrences: " + count)
+        System.out.println("Number of occurrences: " + count);
     }
 }
