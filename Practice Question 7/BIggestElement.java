@@ -17,6 +17,6 @@ public class BIggestElement {
             }
         }
         System.out.println("THe biggest element presernt in an array is : " + biggEl);
-        System.out.println("THe Smallest element presernt in an array is : " + smallEl);
+        System.out.println("THe Smallest element presernt in an array is : " + smallEl)
     }
 }
