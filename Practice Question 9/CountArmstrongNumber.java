@@ -23,7 +23,7 @@ public class CountArmstrongNumber {
             n=n/10;
         }
         if(sum == org){
-            return true
+            return true;
         }
 
     }
